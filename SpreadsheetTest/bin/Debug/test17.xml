@@ -1,0 +1,15 @@
+<?xml version="default" encoding="utf-8"?>
+<spreadsheet version="default">
+<cell>
+<name>A1</name>
+<contents>=B1</contents>
+</cell>
+<cell>
+<name>B1</name>
+<contents>=C1</contents>
+</cell>
+<cell>
+<name>C1</name>
+<contents>=A1</contents>
+</cell>
+</spreadsheet>

@@ -1,0 +1,8 @@
+C:\Users\Elliot\Documents\University of Utah\Spreadsheet\Spreadsheet\bin\Debug\Spreadsheet.dll
+C:\Users\Elliot\Documents\University of Utah\Spreadsheet\Spreadsheet\bin\Debug\Spreadsheet.pdb
+C:\Users\Elliot\Documents\University of Utah\Spreadsheet\Spreadsheet\bin\Debug\Formula.dll
+C:\Users\Elliot\Documents\University of Utah\Spreadsheet\Spreadsheet\bin\Debug\SpreadsheetUtilities.dll
+C:\Users\Elliot\Documents\University of Utah\Spreadsheet\Spreadsheet\bin\Debug\Formula.xml
+C:\Users\Elliot\Documents\University of Utah\Spreadsheet\Spreadsheet\bin\Debug\SpreadsheetUtilities.xml
+C:\Users\Elliot\Documents\University of Utah\Spreadsheet\Spreadsheet\obj\Debug\Spreadsheet.dll
+C:\Users\Elliot\Documents\University of Utah\Spreadsheet\Spreadsheet\obj\Debug\Spreadsheet.pdb

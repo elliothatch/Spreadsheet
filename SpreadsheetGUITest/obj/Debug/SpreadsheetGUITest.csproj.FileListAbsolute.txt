@@ -1,0 +1,5 @@
+C:\Users\Elliot\Documents\University of Utah\Spreadsheet\SpreadsheetGUITest\bin\Debug\SpreadsheetGUITest.dll
+C:\Users\Elliot\Documents\University of Utah\Spreadsheet\SpreadsheetGUITest\bin\Debug\SpreadsheetGUITest.pdb
+C:\Users\Elliot\Documents\University of Utah\Spreadsheet\SpreadsheetGUITest\obj\Debug\SpreadsheetGUITest.dll
+C:\Users\Elliot\Documents\University of Utah\Spreadsheet\SpreadsheetGUITest\obj\Debug\SpreadsheetGUITest.pdb
+C:\Users\Elliot\Documents\University of Utah\Spreadsheet\SpreadsheetGUITest\obj\Debug\SpreadsheetGUITest.csprojResolveAssemblyReference.cache
